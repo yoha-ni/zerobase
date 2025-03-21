@@ -1,5 +1,11 @@
 package week3.assignment.practice;
 
+/**
+ * openjdk 23.0.2
+ * 제로베이스 35기 서요한
+ * 파일 다운로드 시스템
+ */
+
 public class MultiThreadDownload {
 
     public static void main(String[] args) {
