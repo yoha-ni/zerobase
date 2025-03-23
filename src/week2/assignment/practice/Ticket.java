@@ -1,4 +1,4 @@
-package task_2week;
+package week2.assignment.practice;
 
 import java.io.IOException;
 import java.util.Scanner;

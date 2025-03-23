@@ -1,4 +1,4 @@
-package ch01;
+package week1.ch01;
 
 public class Gugudan {
     public static void main(String[] args) {

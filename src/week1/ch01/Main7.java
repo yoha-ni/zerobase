@@ -1,4 +1,4 @@
-package ch01;
+package week1.ch01;
 
 import java.util.Iterator;
 import java.util.Random;

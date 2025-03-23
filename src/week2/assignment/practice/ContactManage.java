@@ -1,4 +1,4 @@
-package task_2week;
+package week2.assignment.practice;
 
 import java.util.*;
 import java.util.stream.Collectors;

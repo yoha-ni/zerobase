@@ -1,4 +1,4 @@
-package java_example;
+package week1.java_example;
 
 import java.util.ArrayList;
 

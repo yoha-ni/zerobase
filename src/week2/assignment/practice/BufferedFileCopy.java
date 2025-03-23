@@ -1,4 +1,4 @@
-package task_2week;
+package week2.assignment.practice;
 /*
 제로베이스 35기 서요한
 */
